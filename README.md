@@ -1,2 +1,3 @@
 # Data_scrapping_projects
-This project uses beautifulsoup to scrap data
+This project uses beautifulsoup to scrape data
+
